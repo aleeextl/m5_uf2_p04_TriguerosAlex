@@ -4,7 +4,7 @@ const prompt = require("prompt-sync")({ sigint: true });
 /**
  * Aquest procediment mostra un menu per pantalla y demana a l'usuari que
  * esculli una opcio
- * 
+ *  
  * @returns {string} la opcio entrada per l'usuari
  */
 function preguntarOperacio() {
