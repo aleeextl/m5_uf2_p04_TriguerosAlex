@@ -26,6 +26,6 @@ function multiplica(...valors) {
     }
     return resultat;
 }
-
+//hola
 module.exports.suma = suma;
 module.exports.multiplica = multiplica;
